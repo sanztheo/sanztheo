@@ -56,7 +56,7 @@ Mes bacs à sable et produits s’abritent sous l’ombrelle **SANZ**:
 
 ### 🚀 Projets en cours
 
-**PEN-SAAS (Pen Note)**  
+**[PEN-NOTE (Pen Note)](https://pennote.fr)**  
 Espace d’apprentissage AI-powered : rédaction assistée, recherche augmentée (RAG), quizz, graphes interactifs, @pages, et support ticketisé.  
 Stack : Next.js + TS, pgvector, SSE, OpenAI/Anthropic, Tailwind/shadcn.
 
