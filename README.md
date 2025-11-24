@@ -60,11 +60,11 @@ Mes bacs à sable et produits s’abritent sous l’ombrelle **SANZ**:
 Espace d’apprentissage AI-powered : rédaction assistée, recherche augmentée (RAG), quizz, graphes interactifs, @pages, et support ticketisé.  
 Stack : Next.js + TS, pgvector, SSE, OpenAI/Anthropic, Tailwind/shadcn.
 
-**SANZ IMMO**  
+**[SANZ IMMO](https://sanzimmo.com)**  
 Estimation immobilière en ligne + SEO local, connecteurs métiers et automatisations.  
 Stack : Framer (pages), backend léger + DB, intégrations Google Business.
 
-**SANZ Cloud**  
+**[SANZ Cloud](https://sanzcloud.com)**  
 Studio “tickets” pour prestations digitales (design, sites Framer, intégrations AI).  
 Modèle simple : N tickets = N actions (avec demi-tickets pour micro-modifs).
 
