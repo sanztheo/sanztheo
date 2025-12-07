@@ -101,11 +101,4 @@ N’hésite pas à ouvrir une issue sur un repo public ou à me contacter via mo
 
 <h3 align="center">📈 Stats & Activité</h3>
 
-<p align="center">
-  <a href="https://github.com/sanztheo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sanztheo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Théo's GitHub Stats" />
-  </a>
-  <a href="https://github.com/sanztheo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanztheo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanztheo)](https://github.com/anuraghazra/github-readme-stats)
