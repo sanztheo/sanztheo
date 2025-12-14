@@ -3,15 +3,6 @@
   <a href="https://www.linkedin.com/in/theo-sanz/" target="_blank">Linkedin</a> 
 </p>
 
----
-
-### 🚀 Projets en cours
-
-**[PEN-NOTE (Pen Note)](https://pennote.fr)**  
-Espace d’apprentissage AI-powered : rédaction assistée, recherche augmentée (RAG), quizz, graphes interactifs, @pages, et support ticketisé.  
-Stack : Next.js + TS, pgvector, SSE, OpenAI/Anthropic, Tailwind/shadcn.
-
----
 
 <h3 align="center">📈 Stats & Activité</h3>
 
