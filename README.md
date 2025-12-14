@@ -9,8 +9,6 @@
 <!-- Statistiques GitHub -->
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanztheo&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanztheo&layout=compact&theme=radical&count_private=true)
 
 </div>
