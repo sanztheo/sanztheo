@@ -13,7 +13,3 @@
 
 </div>
 
-
-<!-- Graphique de contributions -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanztheo&theme=react-dark&hide_border=true)
-
