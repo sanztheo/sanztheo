@@ -28,11 +28,6 @@ Also working on [**Solva**](https://getsolva.fr) — AI-powered SaaS.
 
 <div align="center">
 
-<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanztheo&theme=github_dark" />
-<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanztheo&theme=github_dark" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sanztheo&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+![Metrics](./github-metrics.svg)
 
 </div>
