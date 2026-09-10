@@ -12,8 +12,8 @@
 
 ---
 
-AI engineer at [**Dernier Cri**](https://derniercri.io), building agentic systems and LLM pipelines.  
-Also working on [**Solva**](https://getsolva.fr) — AI-powered SaaS for medical.
+CTO @ [**Solva**](https://getsolva.fr) — AI-powered SaaS for medical.
+Ex - AI engineer at [**Dernier Cri**](https://derniercri.io), building agentic systems and LLM pipelines.  
 
 **Stack**
 
